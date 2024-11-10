@@ -1,4 +1,5 @@
-﻿using DataStructures.LinkedList.SinglyLinkedList;
+﻿using DataStructures.LinkedList.DoublyLinkedList;
+using DataStructures.LinkedList.SinglyLinkedList;
 using System;
 
 namespace DataStructures // Note: actual namespace depends on the project name.
@@ -36,11 +37,21 @@ namespace DataStructures // Note: actual namespace depends on the project name.
             {
                 Console.WriteLine(item);
             }*/
-            var list = new SinglyLinkedList<int>(new int[] {23,44,32,55});
+           /* var list = new SinglyLinkedList<int>(new int[] {23,44,32,55});
             list.Remove(32);
             list.Remove(55);
             list.Remove(23);
             foreach (int i in list)
+            {
+                Console.WriteLine(i);
+            }*/
+
+            var list = new DoublyLinkedList<int>();
+            //list.AddFirst(12);
+            //list.AddFirst(23);
+            list.AddLast(45);
+
+            foreach(var i in list)
             {
                 Console.WriteLine(i);
             }

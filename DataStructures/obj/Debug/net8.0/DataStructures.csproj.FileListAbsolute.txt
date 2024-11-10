@@ -12,3 +12,4 @@ C:\Users\yusuf\source\repos\DataStructures\DataStructures\obj\Debug\net8.0\refin
 C:\Users\yusuf\source\repos\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.pdb
 C:\Users\yusuf\source\repos\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.genruntimeconfig.cache
 C:\Users\yusuf\source\repos\DataStructures\DataStructures\obj\Debug\net8.0\ref\DataStructures.dll
+C:\Users\yusuf\source\repos\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.sourcelink.json
