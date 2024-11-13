@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|c:\\users\\yusuf\\source\\repos\\datastructures\\datastructures\\linkedlist\\doublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\linkedlist\\doublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|c:\\users\\yusuf\\source\\repos\\datastructures\\datastructures\\stack\\linkedliststack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\stack\\linkedliststack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|c:\\users\\yusuf\\source\\repos\\datastructures\\datastructures\\stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|c:\\users\\yusuf\\source\\repos\\datastructures\\datastructures\\stack\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\stack\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|c:\\users\\yusuf\\source\\repos\\datastructures\\datastructures\\linkedlist\\singlylinkedlist\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\linkedlist\\singlylinkedlist\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|c:\\users\\yusuf\\source\\repos\\datastructures\\datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|c:\\users\\yusuf\\source\\repos\\datastructures\\datastructures\\linkedlist\\doublylinkedlist\\doublylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBE798D9-E9E1-4A45-AA33-ECA3D3AF8CBA}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\linkedlist\\doublylinkedlist\\doublylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +38,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DoublyLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "RelativeDocumentMoniker": "DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "RelativeToolTip": "DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAmwK8AAAAqAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SinglyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\LinkedList\\SinglyLinkedList\\SinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "DataStructures\\LinkedList\\SinglyLinkedList\\SinglyLinkedList.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\LinkedList\\SinglyLinkedList\\SinglyLinkedList.cs",
+              "RelativeToolTip": "DataStructures\\LinkedList\\SinglyLinkedList\\SinglyLinkedList.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T18:49:48.696Z",
+              "WhenOpened": "2024-11-13T06:05:47.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayStack.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\Stack\\ArrayStack.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Stack\\ArrayStack.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\Stack\\ArrayStack.cs",
+              "RelativeToolTip": "DataStructures\\Stack\\ArrayStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:38:06.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedListStack.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\Stack\\LinkedListStack.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Stack\\LinkedListStack.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\Stack\\LinkedListStack.cs",
+              "RelativeToolTip": "DataStructures\\Stack\\LinkedListStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:38:03.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\Stack\\Stack.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Stack\\Stack.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\Stack\\Stack.cs",
+              "RelativeToolTip": "DataStructures\\Stack\\Stack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:45:25.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\Program.cs",
               "RelativeDocumentMoniker": "DataStructures\\Program.cs",
@@ -52,18 +99,6 @@
               "ViewState": "AgIAAB0AAAAAAAAAAAAuwDIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T11:55:33.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoublyLinkedListNode.cs",
-              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedListNode.cs",
-              "RelativeDocumentMoniker": "DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedListNode.cs",
-              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\DataStructures\\DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedListNode.cs",
-              "RelativeToolTip": "DataStructures\\LinkedList\\DoublyLinkedList\\DoublyLinkedListNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T18:48:01.45Z"
             }
           ]
         }
