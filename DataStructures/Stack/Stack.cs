@@ -35,9 +35,6 @@ namespace DataStructures.Stack
         {
             return stack.Peek();
         }
-
-
-
     }
 
     public interface IStack<T>
